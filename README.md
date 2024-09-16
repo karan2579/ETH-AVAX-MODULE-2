@@ -1,4 +1,4 @@
-# ETH + AVAX Function Frontend 
+# ETH + AVAX Module
 This is a simple Solidity smart contract named "Assessment" that allows the contract owner to manage a balance and perform deposit and withdrawal operations.
 
 ## Features
